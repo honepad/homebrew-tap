@@ -3,8 +3,8 @@ class Honepad < Formula
 
   desc "Local CLI for public practice problems"
   homepage "https://github.com/honepad/honepad"
-  url "https://github.com/honepad/honepad/releases/download/v0.1.0/honepad-0.1.0.tar.gz"
-  sha256 "03a9a9daa36ad769ed93dec5552d2f85c8014dd9d95483c9b8cd6c193b3fc958"
+  url "https://github.com/honepad/honepad/releases/download/v0.1.1/honepad-0.1.1.tar.gz"
+  sha256 "8cc2035b9952380e89df767ae12cd56927a1cae6401d9e5c17214def4f189d80"
   license "Apache-2.0"
 
   depends_on "python@3.13"
